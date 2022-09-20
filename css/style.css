@@ -1400,8 +1400,8 @@ nav.main-menu {
 
 .banner-main .carousel-caption a {
 	text-transform: uppercase;
-	border: #da4207 solid 1px;
-	background: #da4207;
+	border: #FFDEAD solid 1px;
+	background: black;
 	width: 196px;
 	padding: 12px 0;
 	display: inline-block;
@@ -1413,8 +1413,8 @@ nav.main-menu {
 
 .banner-main .carousel-caption a:hover {
 	border: #fff solid 1px;
-	background: #fff;
-	color: #da4207;
+	background: #FFDEAD;
+	color: black;
 	border-radius: 25px;
     transition: ease-in all 0.5s;
 }
@@ -1512,7 +1512,7 @@ margin-bottom: 20px;
 #main_slider .carousel-control-next:hover,
 #main_slider .carousel-control-prev:focus,
 #main_slider .carousel-control-next:focus {
-	background: #fc4311;
+	background: #FFDEAD;
 	color: #fff;
 }
 
@@ -1573,7 +1573,7 @@ margin-bottom: 20px;
 .service {
 	padding-top: 90px;
 	padding-bottom: 60px;
-	background: #f4f4f4;
+	background: #FFDEAD;
 	margin-top: 90px;
 }
 
@@ -1611,7 +1611,7 @@ margin-bottom: 20px;
 
 .service .service-box .hoverle a {
 	padding: 5px 30px;
-	color: #fc4311;
+	color: white;
    font-size: 17px;
 }
 
@@ -1624,9 +1624,9 @@ margin-bottom: 20px;
 	padding: 0px 0px 6px 0px;
 	font-size: 40px;
 	font-weight: bold;
-	color: #fc4311;
+	color: black;
 	line-height: 46px;
-	border-bottom: #fc4311 solid 1px;
+	border-bottom: white solid 1px;
 	width: 210px;
 	margin: 0 auto;
 	margin-bottom: 0px;
@@ -2184,7 +2184,7 @@ font-size: 17px;}
 #myCarousel .carousel-control-next {
 	width: 62px;
 	height: 60px;
-	background: #fffdfd;
+	background: #FFDEAD;
 	opacity: 1;
 	font-size: 30px;
 	color: #000;
@@ -2194,7 +2194,7 @@ font-size: 17px;}
 #myCarousel .carousel-control-next:hover,
 #myCarousel .carousel-control-prev:focus,
 #myCarousel .carousel-control-next:focus {
-	background: #fc4311;
+	background: #FFDEAD;
 	color: #fff;
 }
 
