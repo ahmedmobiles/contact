@@ -83,7 +83,7 @@ $(function () {
 	$(document).ready(function() {
 	  var owl = $('.banner-rotator-slider');
 	  owl.owlCarousel({
-		items: 1,
+		items: 2,
 		loop: true,
 		margin: 10,
 		nav: true,
